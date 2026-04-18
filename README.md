@@ -31,7 +31,8 @@ The system works by modulating an audio signal onto a laser beam. At the receive
 Watch here: https://youtube.com/shorts/49E79opH2RA
 
 ## 🖼️ Circuit Diagram
-(Add your image here)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9bc2f1b1-35fc-492a-addb-e490e8250637" />
+
 
 ## 📚 Future Improvements
 - Use high-quality laser module  
@@ -39,5 +40,5 @@ Watch here: https://youtube.com/shorts/49E79opH2RA
 - Increase transmission distance  
 
 ## 👨‍💻 Author
-Abishek Kumaran  
+Abishek Kumaran M 
 ECE Student
